@@ -3,6 +3,7 @@
 using namespace std;
 
 class mahasiswa{
-    
-}
+    mahasiswa(int nim, string nama); // Constructor dengan parameter
+};
+
 
